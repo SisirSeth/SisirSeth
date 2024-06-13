@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ...PYTHONE
 - 💞️ I’m looking to collaborate on ...Open-source projects related to Software development that need contributors
 - 📫 CONTACT me ON ... SISIRSETH19@GMAIL.COM
-- ⚡ Fun fact: ...I once tried to impress my crush by baking them cookies, but ended up setting off the smoke alarm instead! We ended up bonding over burnt cookies and shared laughter.
+- ⚡ Fun fact: ...I once tried to impress my crush by baking cookies, but ended up setting off the smoke alarm instead! We ended up bonding over burnt cookies and shared laughter.
